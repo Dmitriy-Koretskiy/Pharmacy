@@ -1,0 +1,21 @@
+﻿<Window x:Class="Pharmacy.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Admin" Height="450" Width="683">
+    <Grid Margin="10,0,0,0" Background="#E5DCF1F1">
+        <DataGrid AutoGenerateColumns="True" Height="336" HorizontalAlignment="Left"  Focusable="True" Margin="166,10,0,0" x:Name="TablesDataGrid" VerticalAlignment="Top" Width="386"  
+                  ItemsSource="{Binding}" IsReadOnly="False" CanUserAddRows="False" CanUserDeleteRows="False" CanUserResizeColumns="False" CanUserResizeRows="False" >
+        </DataGrid>
+        <Button x:Name="B_delete" Content="-" HorizontalAlignment="Left" Margin="432,364,0,0" VerticalAlignment="Top" Width="32" Click="B_delete_Click"/>
+        <Button x:Name="B_update" Content="Update" HorizontalAlignment="Left" Margin="255,364,0,0" VerticalAlignment="Top" Width="47" Click="B_update_Click" Height="20"/>
+        <Button x:Name="B_insert" Content="+" HorizontalAlignment="Left" Margin="352,364,0,0" VerticalAlignment="Top" Width="32" Click="B_insert_Click"/>
+        <ComboBox x:Name="CBox" HorizontalAlignment="Left" Margin="22,31,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged" RenderTransformOrigin="0.273,0.49">
+            <ComboBoxItem Content="Client"/>
+            <ComboBoxItem Content="FarmGroup"/>
+            <ComboBoxItem Content="Medicine"/>
+            <ComboBoxItem Content="ReleaseForm"/>
+            <ComboBoxItem Content="Request"/>
+        </ComboBox>
+        <Label Content="Tables" HorizontalAlignment="Left" Margin="22,5,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

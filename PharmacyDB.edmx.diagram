@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4c47bced57624388abde1b86ea0433f0" Name="Diagram1">
+        <EntityTypeShape EntityType="PharmacyModel.Client" Width="1.5" PointX="3" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyModel.FarmGroup" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyModel.Medicine" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyModel.ReleaseForm" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyModel.Request" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyModel.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="PharmacyModel.FK_Request_Client" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmacyModel.FK_Medicine_FarmGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmacyModel.FK_Medicine_ReleaseForm" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmacyModel.FK_Request_Medicine" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

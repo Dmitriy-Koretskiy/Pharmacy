@@ -1,0 +1,43 @@
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\bin\Debug\EntityFramework.dll
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\bin\Debug\EntityFramework.xml
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Admin.baml
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\MainWindow.baml
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Request.baml
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Admin.g.cs
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\MainWindow.g.cs
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Request.g.cs
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\App.g.cs
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.cache
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\пкпк\Documents\Visual Studio 2012\VS_Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Admin.baml
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\MainWindow.baml
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Admin.g.cs
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\MainWindow.g.cs
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\App.g.cs
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy_MarkupCompile.cache
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.g.resources
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.Cache
+C:\VS_Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\VS_Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\VS_Projects\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\VS_Projects\Pharmacy\Pharmacy\bin\Debug\EntityFramework.dll
+C:\VS_Projects\Pharmacy\Pharmacy\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS_Projects\Pharmacy\Pharmacy\bin\Debug\EntityFramework.xml
+C:\VS_Projects\Pharmacy\Pharmacy\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\RequestWindow.baml
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\RequestWindow.g.cs
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\TestingQuery.baml
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\TestingQuery.g.cs
+C:\VS_Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojResolveAssemblyReference.cache

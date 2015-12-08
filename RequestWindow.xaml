@@ -1,0 +1,15 @@
+﻿<Window x:Class="Pharmacy.RequestWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RequestWindow" Height="234.212" Width="243.816">
+    <Grid  Background="#E5DCF1F1">
+        <Label Content="Amount" HorizontalAlignment="Left" Margin="28,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="28,49,0,0" VerticalAlignment="Top"/>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="28,94,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TB_Amount" HorizontalAlignment="Left" Height="23" Margin="28,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="178" Text="1"/>
+        <TextBox x:Name="TB_Name" HorizontalAlignment="Left" Height="23" Margin="28,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="178"/>
+        <TextBox x:Name="TB_Address" HorizontalAlignment="Left" Height="23" Margin="28,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="178"/>
+        <Button x:Name="B_Confirm" Content="Ok" HorizontalAlignment="Left" Margin="79,160,0,0" VerticalAlignment="Top" Width="75" Click="B_Confirm_Click"/>
+
+    </Grid>
+</Window>
